@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Justifies each paragraph of the input text to fill the page width.
 
-When a block of text is justified, each line fills the entire space from left to right, except for the last line of a paragraph.
+When a block of text is justified, each line fills the entire space from left to right.
 This is accomplished by adjusting the space between words and characters in each line so that the text fills 100% of the space.
 The result is a straight margin on each side of the page.
 
